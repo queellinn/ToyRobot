@@ -37,3 +37,9 @@ Output|Action
 `0,0,WEST`|`REPORT` command returns current `X`, `Y` and `DIRECTION` of the robot.
 `OK`|Command accepted and executed.
 `ERROR`|Command is invalid or will destroy the robot.
+## Badges
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=queellinn_ToyRobot&metric=alert_status)](https://sonarcloud.io/dashboard?id=queellinn_ToyRobot)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=queellinn_ToyRobot&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=queellinn_ToyRobot)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=queellinn_ToyRobot&metric=security_rating)](https://sonarcloud.io/dashboard?id=queellinn_ToyRobot)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=queellinn_ToyRobot&metric=ncloc)](https://sonarcloud.io/dashboard?id=queellinn_ToyRobot)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=queellinn_ToyRobot&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=queellinn_ToyRobot)
